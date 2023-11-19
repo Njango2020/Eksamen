@@ -49,7 +49,7 @@ body {
 }
 
 .aboutTekst{
-    font-size: 17px;
+    font-size: 24px;
     font-family: Roboto, sans-serif;
     line-height: 1.7;
     text-align: left;
@@ -62,7 +62,7 @@ body {
 .aboutOverskrift{
     margin-top: -30px;
     margin-left: 57%;
-    font-size: 50px;
+    font-size: 60px;
     /*font-family: Arial;*/
     font-family: 'Lora', serif;
     /*font-family: 'Merriweather', serif;*/
@@ -81,7 +81,7 @@ body {
 
 .emplyee-section h1 {
     font-family: 'Lora', serif;
-    font-size: 30px;
+    font-size: 40px;
     color: black;
     padding-top: -5px;
 }
@@ -121,7 +121,7 @@ body {
 
 .emplyee-section .our_team .team_member h3 {
     text-transform: uppercase;
-    font-size: 18px;
+    font-size: 24px;
     line-height: 18px;
     letter-spacing: 2px;
     margin: 15px 0 0px;
@@ -131,14 +131,14 @@ body {
 }
 
 .emplyee-section .our_team .team_member span {
-    font-size: 10px;
+    font-size: 15px;
     color: black;
     font-family: Roboto, sans-serif;
 }
 
 .emplyee-section .our_team .team_member p {
     margin-top: 20px;
-    font-size: 14px;
+    font-size: 18px;
     line-height: 20px;
     color: black;
     font-family: Roboto, sans-serif;
