@@ -121,7 +121,7 @@ body {
 
 .emplyee-section .our_team .team_member h3 {
     text-transform: uppercase;
-    font-size: 24px;
+    font-size: 20px;
     line-height: 18px;
     letter-spacing: 2px;
     margin: 15px 0 0px;
@@ -131,14 +131,14 @@ body {
 }
 
 .emplyee-section .our_team .team_member span {
-    font-size: 15px;
+    font-size: 11px;
     color: black;
     font-family: Roboto, sans-serif;
 }
 
 .emplyee-section .our_team .team_member p {
     margin-top: 20px;
-    font-size: 18px;
+    font-size: 15px;
     line-height: 20px;
     color: black;
     font-family: Roboto, sans-serif;
