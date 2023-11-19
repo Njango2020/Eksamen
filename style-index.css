@@ -148,7 +148,7 @@ li a:hover {
     margin-right: 20%;
     margin-bottom: 5%;
     position: relative;
-    top: -100px; /* Move the image 20 pixels upwards */
+    top: -120px; /* Move the image 20 pixels upwards */
     transform: scale(1.5); /* This will zoom in the image by a factor */
 
 }
@@ -163,7 +163,7 @@ li a:hover {
     left: 600px;
     font-size: 20px;
     color: black;
-    margin-top: 5%;
+    margin-top: 15%;
 }
 
 
